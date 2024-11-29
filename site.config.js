@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "A self-starter and experienced graphic designer and animator who has made various contributions to several multinational companies through branding, motion graphics, and digital design projects that meet businesses' ever-changing needs.",
     //email: "and@gmail.com",
     linkedin: "adnatanael",
-    //github: "adnatanael",
+    github: "adnatanael",
     instagram: "adnatanael",
   },
   projects: [
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://adnatanael.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
