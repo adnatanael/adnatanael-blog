@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Graphic Designer",
     bio: "A self-starter and experienced graphic designer and animator who has made various contributions to several multinational companies through branding, motion graphics, and digital design projects that meet businesses' ever-changing needs.",
-    //email: "and@gmail.com",
+    email: "adityanatanael10@gmail.com",
     linkedin: "adnatanael",
     github: "adnatanael",
     instagram: "adnatanael",
