@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "adnatanael",
+    name: "Aditya Natanael",
     image: "/final portrait.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Graphic Designer",
     bio: "Life Long Learner",
     email: "NA",
-    linkedin: "adnatanael",
-    github: "adnatanael",
+    linkedin: "-",
+    github: "-",
     instagram: "adnatanaelisme",  
   },
   projects: [
