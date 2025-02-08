@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Aditya Natanael",
     image: "/final portrait.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Graphic Designer",
-    bio: "Life Long Learner",
+    role: "Life Long Learner",
+    bio: "When Christ calls a man, he bids him come and die ~Dietrich Bonhoeffer",
     email: "NA",
     linkedin: "-",
     github: "-",
