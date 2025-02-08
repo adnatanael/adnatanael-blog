@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Aditya Natanael",
     image: "/final portrait.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Life Long Learner",
-    bio: "When Christ calls a man, he bids him come and die ~Dietrich Bonhoeffer",
+    bio: "It's only by Your grace that I could live today",
     email: "NA",
     linkedin: "-",
     github: "-",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Adnatanael",
-    description: "Welcome to Adnatanael Blog!",
+    title: "Aditya Natanael",
+    description: "Halo, Selamat Datang!",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
 
